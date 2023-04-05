@@ -3,7 +3,7 @@
 A simple React app built with React & React Router Dom.
 
 ## Live Link
-Hosted in Netlify -> [nextPage]()
+Hosted in Netlify -> [nextPage](https://storied-brigadeiros-ebe023.netlify.app)
 
 
 ## Starter Template
