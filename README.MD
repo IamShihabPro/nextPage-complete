@@ -7,7 +7,7 @@ Hosted in Netlify -> [nextPage]()
 
 
 ## Starter Template
-Github Repo -> [nextPage-starter](https://github.com/IamShihabPro/nextPage-complete)
+Github Repo -> [nextPage-complete](https://github.com/IamShihabPro/nextPage-complete)
 
 ## API 
 
